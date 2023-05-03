@@ -1,0 +1,6 @@
+#calculas la suma de la lista 
+
+total = 0
+for numero in (3,6,18,45,60):
+    total = total + numero 
+    print("total: ",total)
